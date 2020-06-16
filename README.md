@@ -10,7 +10,7 @@ For the purpose of this project, we collected all of the daily tweets that twitt
 - **top-tweets-data directory:** it contains all the tweets and hashtags collected, in csv files per week.
 - **2way-classifier:** sci-kit learn classifier object to classify new tweets as positive or negative.
 - **3way-classifier:** sci-kit learn classifier object to classify new tweets as positive, negative or neutral.
-- **covid19-tweets-exploration.ipynb:** Jupyter notebook containing the code used (python 3), fully documentated.
+- **covid19-tweets-exploration.ipynb:** Jupyter notebook containing the code used (python 3).
 - **project-report:** PDF file, describing the whole project and it's conclusions.
 
 ### Python Dependences
